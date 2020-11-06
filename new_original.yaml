@@ -942,13 +942,13 @@ Mailbox - Beedle's Gold Membership Reward:
   Original item: Fill-Up Coupon
   Paths:
   - rels/d_a_obj_toripost.rel@25F4
-  Types: No progression
+  Types: Expensive Purchases, Long Sidequests, Mail
 Mailbox - Beedle's Silver Membership Reward:
   Need: ( Bait Bag | Bombs | Hero's Bow | Empty Bottle ) & Song of Passing
   Original item: Complimentary ID
   Paths:
   - rels/d_a_obj_toripost.rel@25D0
-  Types: No progression
+  Types: Expensive Purchases, Long Sidequests, Mail
 Mailbox - Letter Advertising Bombs in Beedle's Shop:
   Need: Bombs
   Original item: Beedle's Chart
