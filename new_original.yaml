@@ -1048,7 +1048,7 @@ Mailbox - Letter Advertising Rock Spire Shop Ship:
 Mailbox - Beedle's Silver Membership Reward:
   Need: Song of Passing & (Bait Bag | Bombs | Hero's Bow | Empty Bottle)
   Original item: Complimentary ID
-  Types: Mail, Long Sidequest, Expensive Purchase
+  Types: Mail, Short Sidequest, Expensive Purchase
   Paths:
   - rels/d_a_obj_toripost.rel@25D0
 Mailbox - Beedle's Gold Membership Reward:
